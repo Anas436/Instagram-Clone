@@ -41,7 +41,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ayushsav/social-media.git
+   git clone https://github.com/Anas436/Instagram-Clone.git
    ```
 
 2. Navigate to the project directory:
